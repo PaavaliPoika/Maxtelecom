@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Карта без назви</name>
+    <description/>
+    <NetworkLink>
+      <name>Карта без назви</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1VtlJEmG1qW-8ND1eaiUC6pehgnU]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

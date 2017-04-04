@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>MAXtelecom</name>
+    <description/>
+    <Style id="icon-1529-006064-nodesc-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1529-006064-nodesc-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1529-006064-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1529-006064-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1529-006064-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Список городов MAXTELECOM.csv</name>
+      <Placemark>
+        <name>Абрамовка;Киевская область</name>
+        <address>Абрамовка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Барышевка;Киевская область</name>
+        <address>Барышевка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Белая Церковь;Киевская область</name>
+        <address>Белая Церковь;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Белогородка;Киевская область</name>
+        <address>Белогородка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Березань;Киевская область</name>
+        <address>Березань;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Блиставица;Киевская область</name>
+        <address>Блиставица;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Богдановка;Киевская область</name>
+        <address>Богдановка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Богуслав;Киевская область</name>
+        <address>Богуслав;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Борисполь;Киевская область</name>
+        <address>Борисполь;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Боровая;Киевская область</name>
+        <address>Боровая;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Бородянка;Киевская область</name>
+        <address>Бородянка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Борщёв;Киевская область</name>
+        <address>Борщёв;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Боярка;Киевская область</name>
+        <address>Боярка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Бровары;Киевская область</name>
+        <address>Бровары;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Бузовая;Киевская область</name>
+        <address>Бузовая;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Буча;Киевская область</name>
+        <address>Буча;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Васильков;Киевская область</name>
+        <address>Васильков;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Веприк;Киевская область</name>
+        <address>Веприк;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Вита-почтовая;Киевская область</name>
+        <address>Вита-почтовая;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Вишенки;Киевская область</name>
+        <address>Вишенки;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Вишневое;Киевская область</name>
+        <address>Вишневое;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ворзель;Киевская область</name>
+        <address>Ворзель;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Воропаев;Киевская область</name>
+        <address>Воропаев;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Вышгород;Киевская область</name>
+        <address>Вышгород;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гавриловка;Киевская область</name>
+        <address>Гавриловка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гатное;Киевская область</name>
+        <address>Гатное;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Глеваха;Киевская область</name>
+        <address>Глеваха;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гнидын;Киевская область</name>
+        <address>Гнидын;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гоголев;Киевская область</name>
+        <address>Гоголев;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гора;Киевская область</name>
+        <address>Гора;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Горбовичи;Киевская область</name>
+        <address>Горбовичи;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гореничи;Киевская область</name>
+        <address>Гореничи;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Горенка;Киевская область</name>
+        <address>Горенка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гостомель;Киевская область</name>
+        <address>Гостомель;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гребенки;Киевская область</name>
+        <address>Гребенки;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Даниловка;Киевская область</name>
+        <address>Даниловка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Демидов;Киевская область</name>
+        <address>Демидов;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Дмитровка;Киевская область</name>
+        <address>Дмитровка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Дымер;Киевская область</name>
+        <address>Дымер;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Зазимье;Киевская область</name>
+        <address>Зазимье;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Забирья;Киевская область</name>
+        <address>Забирья;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Згуровка;Киевская область</name>
+        <address>Згуровка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Жорновка;Киевская область</name>
+        <address>Жорновка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Иванковичи;Киевская область</name>
+        <address>Иванковичи;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ирпень;Киевская область</name>
+        <address>Ирпень;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Кагарлык;Киевская область</name>
+        <address>Кагарлык;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Калиновка;Киевская область</name>
+        <address>Калиновка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Капитановка;Киевская область</name>
+        <address>Капитановка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Катюжанка;Киевская область</name>
+        <address>Катюжанка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Клавдиево-Тарасово;Киевская область</name>
+        <address>Клавдиево-Тарасово;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Княжичи;Киевская область</name>
+        <address>Княжичи;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Козин;Киевская область</name>
+        <address>Козин;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Красиловка ;Киевская область</name>
+        <address>Красиловка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Красное;Киевская область</name>
+        <address>Красное;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Кременище;Киевская область</name>
+        <address>Кременище;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Круглик;Киевская область</name>
+        <address>Круглик;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Крюковщина ;Киевская область</name>
+        <address>Крюковщина ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ксаверовка;Киевская область</name>
+        <address>Ксаверовка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Лебедёвка;Киевская область</name>
+        <address>Лебедёвка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Лесники;Киевская область</name>
+        <address>Лесники;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Летвиновка;Киевская область</name>
+        <address>Летвиновка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Липовий скиток;Киевская область</name>
+        <address>Липовий скиток;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Летки;Киевская область</name>
+        <address>Летки;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Лютиж;Киевская область</name>
+        <address>Лютиж;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Макаров;Киевская область</name>
+        <address>Макаров;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Малая Снитынка;Киевская область</name>
+        <address>Малая Снитынка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Мартусовка;Киевская область</name>
+        <address>Мартусовка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Мархаловка ;Киевская область</name>
+        <address>Мархаловка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Мироновка;Киевская область</name>
+        <address>Мироновка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Млинок;Киевская область</name>
+        <address>Млинок;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Мотовиловка;Киевская область</name>
+        <address>Мотовиловка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Мотыжин ;Киевская область</name>
+        <address>Мотыжин ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Музычи ;Киевская область</name>
+        <address>Музычи ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Мыла;Киевская область</name>
+        <address>Мыла;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Неграши;Киевская область</name>
+        <address>Неграши;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Немешаево ;Киевская область</name>
+        <address>Немешаево ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Низшая дубечня ;Киевская область</name>
+        <address>Низшая дубечня ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Новоселки ;Киевская область</name>
+        <address>Новоселки ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Новые Безрадичи ;Киевская область</name>
+        <address>Новые Безрадичи ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Новые Петровцы;Киевская область</name>
+        <address>Новые Петровцы;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Обухов;Киевская область</name>
+        <address>Обухов;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Осещина;Киевская область</name>
+        <address>Осещина;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Осыково;Киевская область</name>
+        <address>Осыково;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Переяслав-Хмельницкий;Киевская область</name>
+        <address>Переяслав-Хмельницкий;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Песковка ;Киевская область</name>
+        <address>Песковка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Петровское;Киевская область</name>
+        <address>Петровское;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Петровское;Киевская область</name>
+        <address>Петровское;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Петропавловская Борщаговка ;Киевская область</name>
+        <address>Петропавловская Борщаговка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Петрушки ;Киевская область</name>
+        <address>Петрушки ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Плесецкое ;Киевская область</name>
+        <address>Плесецкое ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Погребы ;Киевская область</name>
+        <address>Погребы ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Подгорцы ;Киевская область</name>
+        <address>Подгорцы ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Пролиски ;Киевская область</name>
+        <address>Пролиски ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Процев ;Киевская область</name>
+        <address>Процев ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Пуховка ;Киевская область</name>
+        <address>Пуховка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Раковка;Киевская область</name>
+        <address>Раковка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ревне;Киевская область</name>
+        <address>Ревне;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ржищев ;Киевская область</name>
+        <address>Ржищев ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Рогозов ;Киевская область</name>
+        <address>Рогозов ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Рожны ;Киевская область</name>
+        <address>Рожны ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Семиполки;Киевская область</name>
+        <address>Семиполки;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Синяк ;Киевская область</name>
+        <address>Синяк ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Сквира ;Киевская область</name>
+        <address>Сквира ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Слобода;Киевская область</name>
+        <address>Слобода;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Софиевская Борщаговка ;Киевская область</name>
+        <address>Софиевская Борщаговка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Стайки ;Киевская область</name>
+        <address>Стайки ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Старые петровцы ;Киевская область</name>
+        <address>Старые петровцы ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Стритовка;Киевская область</name>
+        <address>Стритовка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Тарасовка ;Киевская область</name>
+        <address>Тарасовка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Тараща ;Киевская область</name>
+        <address>Тараща ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Тарасовка;Киевская область</name>
+        <address>Тарасовка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Таценки;Киевская область</name>
+        <address>Таценки;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Тетиев ;Киевская область</name>
+        <address>Тетиев ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Украинка;Киевская область</name>
+        <address>Украинка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Фастов;Киевская область</name>
+        <address>Фастов;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ходосеевка;Киевская область</name>
+        <address>Ходосеевка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Хотяновка;Киевская область</name>
+        <address>Хотяновка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Чабаны ;Киевская область</name>
+        <address>Чабаны ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Яготин ;Киевская область</name>
+        <address>Яготин ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ясногородка ;Киевская область</name>
+        <address>Ясногородка ;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Ясногородка;Киевская область</name>
+        <address>Ясногородка;Киевская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Умань;</name>
+        <address>Умань;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Гайсин;</name>
+        <address>Гайсин;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Винница;</name>
+        <address>Винница;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Хмельницкий;</name>
+        <address>Хмельницкий;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Тернополь;</name>
+        <address>Тернополь;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Черновцы;</name>
+        <address>Черновцы;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Каменец-Подольский;</name>
+        <address>Каменец-Подольский;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Староконстантинов;</name>
+        <address>Староконстантинов;</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Стара Синява ; Хмельницкая область</name>
+        <address>Стара Синява ; Хмельницкая область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>с. Парипсы; Житомирская область</name>
+        <address>с. Парипсы; Житомирская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>с. Красносельское; Черниговская область</name>
+        <address>с. Красносельское; Черниговская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>с. Красиловка; Черниговская область</name>
+        <address>с. Красиловка; Черниговская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Пісковське</name>
+        <address>Пісковське</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>с Тарасов; Черниговская область</name>
+        <address>с Тарасов; Черниговская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>с. Басовка; Сумская область</name>
+        <address>с. Басовка; Сумская область</address>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Кощіївка</name>
+        <styleUrl>#icon-1529-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.9701745,50.1793272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
